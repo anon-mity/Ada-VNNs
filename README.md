@@ -1,2 +1,2 @@
-# AdaR-VNNs
-# An official implementation of AdaR-VNNs
+# Ada-VNNs
+# An official implementation of Ada-VNNs
