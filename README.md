@@ -2,7 +2,7 @@
 An official implementation of Ada-VNNs
 
 <div align="center">
-  <img src="method1.jpg" alt="Ada-VNNs" width="80%">
+  <img src="method1.jpg" alt="Ada-VNNs" width="60%">
 </div>
 
 Vector Neuron Networks (VNNs) have been widely adopted in various 3D tasks due to their data efficiency and strong generalization capabilities rooted in equivariance. However, the rigid equivariance constraints of VNNs limit their ability to handle the prevalent problem of symmetry breaking in the 3D world, where models may need to produce outputs with reduced symmetry from inputs with high symmetry. In this paper, we propose an adaptive equivariance paradigm within the Vector Neuron (VN) framework, comprising three key designs:
