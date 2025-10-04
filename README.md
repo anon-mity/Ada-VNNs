@@ -15,7 +15,7 @@ Vector Neuron Networks (VNNs) have been widely adopted in various 3D tasks due t
 
 2.Download[ShapeNetAtlasNet](https://condor-datasets.s3.us-east-2.amazonaws.com/dataset/ShapeNetAtlasNetH5_1024.zip) (ShapeNetAtlasNet covers 13 categories of ShapeNetCore ('bench', 'cabinet', 'car', 'cellphone', 'chair', 'couch', 'firearm', 'lamp', 'monitor', 'plane', 'speaker', 'table', 'watercraft')), and place it in the following directory: `your path/ShapeNetAtlasNetH5_1024/`.
 
-3.Download[ShapeNet13](https://drive.google.com/file/d/1HRciLTnFbTxKJiiqpvnw3bNC5rSeg-qp/view?usp=sharing)) (additional categories selected from ShapeNetCore ('can', 'bookshelf', 'jar', 'appliance', 'bath', 'bus', 'walkie-talkie', 'clock', 'faucet', 'guitar', 'laptop', 'mug', 'pot').), and place it in the following directory: `your path/ScanObjectNN`.
+3.Download[ShapeNet13](https://drive.google.com/file/d/1HRciLTnFbTxKJiiqpvnw3bNC5rSeg-qp/view?usp=sharing) (additional categories selected from ShapeNetCore ('can', 'bookshelf', 'jar', 'appliance', 'bath', 'bus', 'walkie-talkie', 'clock', 'faucet', 'guitar', 'laptop', 'mug', 'pot').), and place it in the following directory: `your path/ScanObjectNN`.
 
 # Environment Preparation
 We tested the code on pytorch1.10 (cuda11.1).
